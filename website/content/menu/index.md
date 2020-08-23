@@ -7,6 +7,9 @@ headless: true
 - [第一章 序章]({{< relref "/ChapterOne/_index.md" >}})
   - [1.1 关于作者]({{< relref "/ChapterOne/#关于作者" >}})
   - 1.2 预备知识
+- [Collapsed]({{< relref "/docs/example/collapsed" >}})
+  - [3rd]({{< relref "/docs/example/collapsed/3rd-level" >}})
+    - [4th]({{< relref "/docs/example/collapsed/3rd-level/4th-level" >}})
 - [第二章 算法专题]({{< relref "/ChapterTwo/_index.md" >}})
   - [2.1 Array]({{< relref "/ChapterTwo/Array.md" >}})
   - [2.2 String]({{< relref "/ChapterTwo/String.md" >}})
@@ -31,6 +34,8 @@ headless: true
   - [3.1 Segment Tree]({{< relref "/ChapterThree/Segment_Tree.md" >}})
   - [3.2 UnionFind]({{< relref "/ChapterThree/UnionFind.md" >}})
 - [第四章 Leetcode 题解]({{< relref "/ChapterFour/_index.md" >}})
+	- [Collapsed Menu]({{< relref "/ChapterFour/Collapsed Menu/" >}})
+    	- [4th]({{< relref "/ChapterFour/Collapsed Menu/3rd-level/4th-level" >}})
     - [0001.Two-Sum]({{< relref "/ChapterFour/0001.Two-Sum.md" >}})
     - [0002.Add-Two-Numbers]({{< relref "/ChapterFour/0002.Add-Two-Numbers.md" >}})
     - [0003.Longest-Substring-Without-Repeating-Characters]({{< relref "/ChapterFour/0003.Longest-Substring-Without-Repeating-Characters.md" >}})
